@@ -16,12 +16,12 @@ ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 
 ## How to use this checklist
 
-* Copy the checklist to a new document.
-* For each item, think about what it involves, and when you will do it.
-* Consider how you might remind yourself to do it, or persuade yourself to make time for it.
-* As you come up with your answers, write them in the space provided, or tick one of the existing suggestions.
-  * The suggestions are roughly in the order of recommended best practice.
-* When you've answered all the points in a section, tick it off.
+- Copy the checklist to a new document.
+- For each item, think about what it involves, and when you will do it.
+- Consider how you might remind yourself to do it, or persuade yourself to make time for it.
+- As you come up with your answers, write them in the space provided, or tick one of the existing suggestions.
+  - The suggestions are roughly in the order of recommended best practice.
+- When you've answered all the points in a section, tick it off.
 
 ## Checklist
 
